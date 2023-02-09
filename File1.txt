@@ -1,0 +1,8 @@
+This file is created by developer2.
+It is going to push into Github repository
+In order to push, initially it should be move to the staging area 
+and then it to .git repository so that it is ready to move
+then by using push comand we push it into the remote or guthub repository.
+-> whatever files are there in staging area those files are ready to commit and
+move to .git repository
+-> .git repository takes the commited files 
