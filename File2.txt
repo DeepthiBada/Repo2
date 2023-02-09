@@ -1,0 +1,6 @@
+This File2 is created by Developer1.
+In order to push into the github repo follow the same steps
+1.Create local files
+2. add the files into staging area
+3. Commit so that ready to push
+4. push to Remote Repo
